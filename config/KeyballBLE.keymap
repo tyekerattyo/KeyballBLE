@@ -83,7 +83,7 @@
 &kp ESCAPE        &kp LEFT_ARROW   &kp UP_ARROW     &kp PAGE_UP      &kp HOME                                     &kp BACKSLASH  &kp COLON      &kp LT            &kp GT             &kp PRINTSCREEN
 &kp SLASH         &kp KP_NUMBER_4  &kp DOWN_ARROW   &kp RIGHT_ARROW  &kp ASTERISK  &trans         &kp UNDERSCORE  &kp SLASH      &kp BACKSLASH  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans
 &kp LEFT_SHIFT    &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp PAGE_DOWN    &kp END       &mkp MCLK      &kp PIPE        &kp SLASH      &kp QMARK      &kp LEFT_BRACE    &kp RIGHT_BRACE    &trans
-&kp LEFT_CONTROL  &kp LEFT_GUI     &kp LEFT_ALT     &mkp RCLK        &mkp LCLK     &trans         &trans          &kp SPACE                                                          &kp PIPE
+&kp LEFT_CONTROL  &kp LEFT_GUI     &kp LEFT_ALT     &mkp RCLK        &mkp LCLK     &trans         &trans          &kp SPACE                                                          &trans
             >;
 
             sensor-bindings = <&inc_dec_kp LA(TAB) RA(TAB)>;
