@@ -82,7 +82,7 @@
             bindings = <
 &kp ESCAPE        &kp LEFT_ARROW  &kp UP_ARROW    &trans           &kp HOME                                         &kp BACKSLASH  &kp COLON  &kp LT            &kp GT             &kp PRINTSCREEN
 &kp AT_SIGN       &kp PG_UP       &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans     &kp LG(UP_ARROW)      &kp UNDERSCORE  &kp SLASH      &kp SEMI   &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans
-&kp LEFT_SHIFT    &kp PAGE_DOWN   &kp LC(C)       &kp LC(V)        &kp END    &mkp MCLK             &kp GRAVE       &kp PIPE       &kp QMARK  &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp DEL
+&kp LEFT_SHIFT    &kp PAGE_DOWN   &kp LC(C)       &kp LC(V)        &kp END    &mkp MCLK             &kp GRAVE       &kp PIPE       &kp QMARK  &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp BACKSPACE
 &kp LEFT_CONTROL  &kp LEFT_GUI    &kp LEFT_ALT    &mkp RCLK        &mkp LCLK  &trans                &trans          &kp SPACE                                                      &kp RIGHT_SHIFT
             >;
 
